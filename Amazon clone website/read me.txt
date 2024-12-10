@@ -1,0 +1,9 @@
+Create a navigation bar and the navigation bar contains:
+                 1.Search bar
+                 2.Home
+                 3.Sign in button
+                 4.Add to cart
+Amazone logo is created.
+Search button and Search icon has been created to search the products in the app.
+In css styling the major and minor color of the amazon website is created.
+Then the background color of the website is created in css styling
